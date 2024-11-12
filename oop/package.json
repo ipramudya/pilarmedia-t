@@ -1,0 +1,17 @@
+{
+  "name": "pilarmedia",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "ts-node main.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Pramudya Tamir Indra Permana",
+    "email": "ipramudya.dev@gmail.com"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}
